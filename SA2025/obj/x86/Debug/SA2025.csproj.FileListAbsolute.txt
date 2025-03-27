@@ -1,0 +1,21 @@
+C:\Users\aidata\Desktop\SA2025\SA2025\bin\Debug\SA2025.exe
+C:\Users\aidata\Desktop\SA2025\SA2025\bin\Debug\SA2025.pdb
+C:\Users\aidata\Desktop\SA2025\SA2025\obj\x86\Debug\SA2025.Properties.Resources.resources
+C:\Users\aidata\Desktop\SA2025\SA2025\obj\x86\Debug\SA2025.csproj.GenerateResource.Cache
+C:\Users\aidata\Desktop\SA2025\SA2025\obj\x86\Debug\SA2025.exe
+C:\Users\aidata\Desktop\SA2025\SA2025\obj\x86\Debug\SA2025.pdb
+C:\Users\aidata\Desktop\SA2025\SA2025\obj\x86\Debug\SA2025.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\04. SA2025\SA2025\obj\x86\Debug\SA2025.exe
+C:\Users\LENOVO\Desktop\04. SA2025\SA2025\obj\x86\Debug\SA2025.pdb
+C:\Users\LENOVO\Desktop\04. SA2025\SA2025\bin\Debug\SA2025.exe
+C:\Users\LENOVO\Desktop\04. SA2025\SA2025\bin\Debug\SA2025.pdb
+C:\Users\LENOVO\Desktop\04. SA2025\SA2025\obj\x86\Debug\SA2025.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\04. SA2025\SA2025\obj\x86\Debug\SA2025.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\04. SA2025\SA2025\obj\x86\Debug\SA2025.csproj.GenerateResource.Cache
+C:\Users\aidata\Desktop\04. SA2025\SA2025\obj\x86\Debug\SA2025.exe
+C:\Users\aidata\Desktop\04. SA2025\SA2025\obj\x86\Debug\SA2025.pdb
+C:\Users\aidata\Desktop\04. SA2025\SA2025\bin\Debug\SA2025.exe
+C:\Users\aidata\Desktop\04. SA2025\SA2025\bin\Debug\SA2025.pdb
+C:\Users\aidata\Desktop\04. SA2025\SA2025\obj\x86\Debug\SA2025.csprojResolveAssemblyReference.cache
+C:\Users\aidata\Desktop\04. SA2025\SA2025\obj\x86\Debug\SA2025.Properties.Resources.resources
+C:\Users\aidata\Desktop\04. SA2025\SA2025\obj\x86\Debug\SA2025.csproj.GenerateResource.Cache
