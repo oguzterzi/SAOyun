@@ -18,13 +18,15 @@ namespace SA2025
         static public void YeniOyun()
         {
             o = new Oyuncu(25);
-
-            Gemiler.Ekle(20);
         }
 
         static public void Hesapla(float t)
         {
-            Gemiler.Hesapla(t);
+            if (Gemiler.Say() < 20)
+                Gemiler.Ekle(1);
+
+            Gemiler.Hesapla(t, o);
+            Patlamalar.Hesapla(t);
         }
 
         static public void Ciz()
@@ -32,8 +34,10 @@ namespace SA2025
             Resim.Ciz(bgResim, 0, 0, 800, 600);
 
             Gemiler.Ciz();
-
+            Patlamalar.Ciz();
             o.Ciz();
+
+            Resim.YaziYaz(Patlamalar.Say().ToString(), 0, 0, 50);
         }
 
         static public void FareKontrol()

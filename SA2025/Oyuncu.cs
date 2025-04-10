@@ -6,7 +6,9 @@ namespace SA2025
     class Oyuncu
     {
         private static int resim;
-        private float x, y, r;
+        public float x { get; private set; }
+        public float y { get; private set; }
+        public float r { get; private set; }
 
         static Oyuncu()
         {

@@ -8,7 +8,11 @@ namespace SA2025
     {
         static List<int> resimler;
         int tip;
-        float x, y, r, a, vx, vy;
+        float a, vx, vy;
+
+        public float x { get; private set; }
+        public float y { get; private set; }
+        public float r { get; private set; }
 
         static Random rnd = new Random();
 
@@ -41,8 +45,6 @@ namespace SA2025
                 vx *= -1;
 
             y += vy * t;
-            if (y > 700)
-                y = rnd.Next(-300, -50);
         }
 
         public void Ciz()
@@ -51,6 +53,18 @@ namespace SA2025
                 Resim.Ciz(resimler[tip], x - r, y - r, 2 * r, 2 * r, a);
             else
                 Resim.Ciz(resimler[tip], x - r, y - r, 2 * r, 2 * r);
+        }
+
+        public bool Carpti(Oyuncu o)
+        {
+            float dx = Math.Abs(x - o.x);
+            float dy = Math.Abs(y - o.y);
+            float toplamR = (r + o.r) *0.7f;
+
+            if (dx < toplamR && dy < toplamR)
+                return true;
+
+            return false;
         }
 
     }
