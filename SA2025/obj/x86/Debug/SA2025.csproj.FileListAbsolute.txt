@@ -19,3 +19,12 @@ C:\Users\LENOVO\Desktop\05. SA2025\SA2025\bin\Debug\SA2025.pdb
 C:\Users\LENOVO\Desktop\05. SA2025\SA2025\obj\x86\Debug\SA2025.csprojResolveAssemblyReference.cache
 C:\Users\LENOVO\Desktop\05. SA2025\SA2025\obj\x86\Debug\SA2025.Properties.Resources.resources
 C:\Users\LENOVO\Desktop\05. SA2025\SA2025\obj\x86\Debug\SA2025.csproj.GenerateResource.Cache
+C:\Users\oguzt\Source\Repos\oguzterzi\SAOyun\SA2025\bin\Debug\SA2025.exe
+C:\Users\oguzt\Source\Repos\oguzterzi\SAOyun\SA2025\bin\Debug\SA2025.pdb
+C:\Users\oguzt\Source\Repos\oguzterzi\SAOyun\SA2025\obj\x86\Debug\SA2025.csproj.AssemblyReference.cache
+C:\Users\oguzt\Source\Repos\oguzterzi\SAOyun\SA2025\obj\x86\Debug\SA2025.Properties.Resources.resources
+C:\Users\oguzt\Source\Repos\oguzterzi\SAOyun\SA2025\obj\x86\Debug\SA2025.csproj.GenerateResource.cache
+C:\Users\oguzt\Source\Repos\oguzterzi\SAOyun\SA2025\obj\x86\Debug\SA2025.csproj.CoreCompileInputs.cache
+C:\Users\oguzt\Source\Repos\oguzterzi\SAOyun\SA2025\obj\x86\Debug\SA2025.csproj.CopyComplete
+C:\Users\oguzt\Source\Repos\oguzterzi\SAOyun\SA2025\obj\x86\Debug\SA2025.exe
+C:\Users\oguzt\Source\Repos\oguzterzi\SAOyun\SA2025\obj\x86\Debug\SA2025.pdb
